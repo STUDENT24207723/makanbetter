@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/makanbetter/static/css/main.e6c13ad2.css",
+    "main.js": "/makanbetter/static/js/main.10cd12d8.js",
+    "static/js/453.f15f6a13.chunk.js": "/makanbetter/static/js/453.f15f6a13.chunk.js",
+    "index.html": "/makanbetter/index.html",
+    "main.e6c13ad2.css.map": "/makanbetter/static/css/main.e6c13ad2.css.map",
+    "main.10cd12d8.js.map": "/makanbetter/static/js/main.10cd12d8.js.map",
+    "453.f15f6a13.chunk.js.map": "/makanbetter/static/js/453.f15f6a13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10cd12d8.js"
+  ]
+}
